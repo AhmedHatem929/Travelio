@@ -1,90 +1,139 @@
-# Mishwar — Destination Experience Platform
+# Travelio — Destination Experience Platform
 
-**Discover. Choose. Experience.**
+**Discover the Place. Experience the Journey.**
 
-Mishwar is a destination experience platform designed to transform how tourists discover and experience destinations. It brings tourist attractions, activities, local guides, accommodations, and local souvenir shops together in one integrated platform.
+Travelio is an integrated destination experience platform designed to transform how travelers explore and experience tourism destinations in Egypt.
 
-Instead of searching across multiple sources, travelers can plan and organize their entire destination experience through one place.
+The platform connects tourists with attractions, local guides, activities, restaurants, cafes, and exclusive local offers through one unified experience.
+
+Instead of searching across multiple platforms and disconnected sources, Travelio brings the entire travel journey together in one place.
 
 ## About the Project
 
-Mishwar aims to make travel planning easier, more personalized, and more connected to local experiences.
+Travelio aims to simplify travel planning and create a more connected tourism experience by bringing together travelers and local service providers.
 
-The platform combines destination discovery, AI-powered trip planning, tourist guides, activities, and local products into a unified ecosystem.
+The platform focuses on delivering personalized recommendations, direct connections with independent local guides, instant activity booking, and exclusive offers that help travelers discover destinations beyond traditional tourism experiences.
 
-## Key Features
-
-### AI Trip Planner
-- Personalized travel plans based on user preferences.
-- Recommendations based on budget, trip duration, interests, and travel style.
-- Smart matching between travelers and suitable tourist guides.
+## Core Features
 
 ### Destination Discovery
-- Explore tourist attractions and destinations.
-- Access important information about places.
-- View location details and visitor information.
+- Explore tourist attractions and historical landmarks.
+- Access detailed destination information.
+- Discover recommended places and nearby experiences.
+- Explore destinations through interactive maps.
 
-### Activities & Experiences
-- Discover available tourist activities.
-- Explore different experiences offered at each destination.
-- Find activities that match personal interests.
-
-### Tourist Guides
-- Discover professional and specialized tourist guides.
+### Independent Local Guides
+- Discover professional and independent tourist guides.
 - View guide profiles, languages, and specializations.
-- Connect travelers with suitable guides.
+- Connect directly with suitable guides.
+- Find personalized guiding experiences.
 
-### Local Souvenirs & Products
-- Discover local souvenir shops and products.
-- Explore traditional and handmade items.
-- Support local businesses and merchants.
+### Local Activities and Experiences
+- Discover available tourism activities and experiences.
+- Explore unique local adventures.
+- Book activities directly through the platform.
+- Find experiences based on personal interests.
 
-## How Mishwar Works
+### Restaurants, Cafes, and Exclusive Offers
+- Discover local restaurants and cafes.
+- Explore exclusive offers and discounts.
+- Find dining experiences connected to the destination.
+- Access curated local recommendations.
 
-The platform provides a connected travel journey:
+### Personalized Travel Experience
+- Discover destinations based on travel preferences.
+- Receive recommendations for places and activities.
+- Organize the travel journey from arrival to departure.
+- Enjoy a more convenient and connected tourism experience.
 
-1. **Choose Destination** – Select the destination you want to explore.
-2. **Set Preferences** – Define your travel interests and preferences.
-3. **Generate Travel Plan** – Get personalized recommendations through the AI Trip Planner.
-4. **Discover Places** – Explore attractions and destinations.
-5. **Book Activities** – Find suitable activities and experiences.
-6. **Choose a Guide** – Connect with a suitable tourist guide.
-7. **Explore Local Souvenirs** – Discover local shops and products.
-8. **Enjoy Your Destination** – Experience your trip in one connected journey.
+## How Travelio Works
+
+Travelio organizes the tourist journey into four main stages:
+
+1. **Pre-Trip:** Choose destinations, explore attractions, and plan the journey.
+2. **On Arrival:** Discover nearby places, activities, and available services.
+3. **During the Trip:** Book activities, connect with guides, and explore local offers.
+4. **Post-Trip:** Share experiences, reviews, and recommendations.
 
 ## Business Model
 
-Mishwar's revenue model includes:
+Travelio follows a multi-source revenue model:
 
-- **Booking Commission:** Commission from tourist bookings and activities.
-- **Featured Listings:** Paid promotional placements for businesses and service providers.
-- **Partnerships:** Collaboration with tourist guides, shops, and local service providers.
-- **Future Marketplace:** A marketplace for local products and souvenirs.
+- **Direct Booking Commission:** Revenue generated from tourism activities and service bookings, with a proposed commission of 12%–18%.
+- **Guide Booking Commission:** Commission generated from bookings with independent tourist guides, with a proposed rate of 10%–15%.
+- **B2B Subscriptions:** Subscription plans for restaurants, cafes, and local businesses.
+- **Featured Listings:** Paid promotional placements that increase the visibility of local businesses.
+
+These percentages represent the proposed business model presented in the project presentation.
+
+## Competitive Advantage
+
+Travelio differs from traditional tourism platforms by combining multiple tourism services into one integrated destination experience.
+
+Its main advantages include:
+
+- A unified destination experience rather than a simple tourism listing platform.
+- Direct connections with independent local guides.
+- On-demand booking for local activities and experiences.
+- Exclusive offers from restaurants and local businesses.
+- A connected journey covering multiple stages of the tourist experience.
 
 ## MVP Scope
 
-The initial version focuses on the core travel experience:
+The initial launch focuses on the Luxor and Aswan destinations.
 
-- Tourist Places
-- AI Trip Planner
-- Tourist Guides
-- Activities
-- Souvenir Shops
-- Basic Maps and Recommendations
+The proposed MVP includes:
 
-The MVP is designed to validate the platform's core value before expanding into additional services.
+- 10 key tourist attractions.
+- 50 certified tourist guides.
+- 20 activities and service providers.
+- A tourist application.
+- A partner portal.
+- The core destination discovery and booking experience.
 
-## Future Roadmap
+The presentation also defines initial business targets, including 10,000+ tourists and $150K in Gross Merchandise Value (GMV). These are targets, not achieved results.
 
-- **Phase 1 – Model Validation:** Validate the concept and core user experience.
-- **Phase 2 – Expansion:** Expand destinations and available experiences.
-- **Phase 3 – Full Integration:** Develop a more complete tourism ecosystem.
-- **Phase 4 – Advanced Services:** Introduce additional services and marketplace capabilities.
+## Operational Ecosystem
 
-## Our Vision
+Travelio is designed around three connected components:
 
-To make Mishwar a unified destination experience platform that connects travelers with places, experiences, guides, and local culture — making every journey easier to discover and more meaningful.
+### Tourist Application
+The main interface through which travelers discover destinations, explore activities, connect with guides, and access available services.
+
+### Travelio Engine
+The central platform engine responsible for connecting tourism services and supporting the destination experience.
+
+### Partner Portal
+A dedicated interface for service providers and local businesses to manage their presence and interact with the platform.
+
+## Growth Roadmap
+
+### Phase 1 — MVP Launch
+- Launch in Luxor and Aswan.
+- Onboard tourist guides and local service providers.
+- Release the core tourist application and partner portal.
+
+### Phase 2 — Initial Expansion
+- Expand the available tourist guides and activities.
+- Introduce additional tourism experiences.
+- Develop the Travelio Perks program.
+
+### Phase 3 — Egypt-Wide Expansion
+- Expand coverage across Egypt.
+- Strengthen partnerships with local tourism providers.
+- Improve the platform's recommendation and service capabilities.
+
+### Phase 4 — Regional Expansion
+- Expand into the MENA region.
+- Grow the tourism partner network.
+- Pursue further investment and business expansion.
+
+## Vision
+
+Our vision is to transform the way people experience tourism in Egypt by connecting travelers with destinations, local guides, authentic activities, and local businesses through one seamless platform.
+
+Travelio is more than a tourism directory. It is a complete destination experience platform.
 
 ---
 
-**Mishwar — Discover. Choose. Experience.**
+**Travelio — Discover the Place. Experience the Journey.**
